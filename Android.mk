@@ -88,6 +88,7 @@ tcpdump_src_files := \
   print-lwapp.c \
   print-lwres.c \
   print-m3ua.c \
+  print-medsa.c \
   print-mobile.c \
   print-mobility.c \
   print-mpcp.c \
